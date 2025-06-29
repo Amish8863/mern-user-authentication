@@ -1,0 +1,12 @@
+# ignore node_modules
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# ignore environment file
+.env
+frontend/.env
+backend/.env
+
+# ignore logs
+*.log
